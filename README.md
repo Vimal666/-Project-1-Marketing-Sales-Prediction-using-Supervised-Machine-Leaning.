@@ -1,0 +1,2 @@
+# -Project-1-Marketing-Sales-Prediction-using-Supervised-Machine-Leaning.
+Objective : Each Salesperson will be assigned with a Target (no of products to be sold) for each months. Which is given to them based on their last month's Achievement (no of products sold) i.e 10% Increased from the last achievement. Objective of the analysis is to implement a model to predict the target given to them for the next month based on their previous month achievement instead of giving them simply a 10% hike.  
